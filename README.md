@@ -20,18 +20,23 @@ See the changes for yourself:
 
 * **Volume:**
 
-![volume-change](sshots/vol-notify.png)
+<!-- ![volume-change](sshots/vol-notify.png) -->
+<img width="500" alt="volume-change" src="sshots/vol-notify.png">
 
 * **Brightness:**
 
-![bright-change](sshots/bright-notify.png)
+<!--![bright-change](sshots/bright-notify.png)-->
+<img width="500" alt="bright-change" src="sshots/bright-notify.png">
 
 * **Battery:**
 
-![battery-charge](sshots/battery_charging.png)
+<!--![battery-charge](sshots/battery_charging.png)-->
+<img width="500" alt="battery-charge" src="sshots/battery_charging.png">
 
-![battery_discharging](sshots/battery_discharging.png)
+<!--![battery_discharging](sshots/battery_discharging.png)-->
+<img width="500" alt="battery_discharge" src="sshots/battery_discharging.png">
 
 * **Song:**
 
-![song-change](sshots/music-notify.png)
+<!--![song-change](sshots/music-notify.png)-->
+<img width="500" alt="music-notify" src="sshots/music-notify.png">
