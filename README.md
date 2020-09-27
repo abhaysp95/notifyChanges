@@ -22,30 +22,48 @@ See the changes for yourself:
 
 <!-- ![volume-change](sshots/vol-notify.png) -->
 <p align="center">
-<img width="600" alt="volume-change" src="sshots/vol-notify.png">
+<img width="720" alt="volume-change" src="sshots/vol-notify.png">
 </p>
 
 * **Brightness:**
 
 <!--![bright-change](sshots/bright-notify.png)-->
 <p align="center">
-<img width="600" alt="bright-change" src="sshots/bright-notify.png">
+<img width="720" alt="bright-change" src="sshots/bright-notify.png">
 </p>
 
 * **Battery:**
 
 <!--![battery-charge](sshots/battery_charging.png)-->
 <p align="center">
-<img width="600" alt="battery-charge" src="sshots/battery_charging.png">
+<img width="720" alt="battery-charge" src="sshots/battery_charging.png">
 
 <!--![battery_discharging](sshots/battery_discharging.png)-->
 <p align="center">
-<img width="600" alt="battery_discharge" src="sshots/battery_discharging.png">
+<img width="720" alt="battery_discharge" src="sshots/battery_discharging.png">
 </p>
 
 * **Song:**
 
 <!--![song-change](sshots/music-notify.png)-->
 <p align="center">
-<img width="600" alt="music-notify" src="sshots/music-notify.png">
+<img width="720" alt="music-notify" src="sshots/music-notify.png">
 </p>
+
+## Usage:
+
+* Use `alert_battery.sh` with some sort of auto-startup program.
+
+You can also checkout my repo for more detailed and some more battery related scripts [here](https://github.com/coolabhays/battery-status)
+* Use `getProgressString.sh` inside your desired script or tool to get your desired progress bar look. Checkout `--help` for detail
+* Use `mpd_changes.sh` with some sort of auto-startup program like your _wm's config file_ or _.xprofile_ etc.
+* Run `notifyChanges.sh --battery` with auto-startup utility same as above ones
+* For _volume, brightness_ etc. bind `notifyChanges.sh` with the respected flags to keybinding.
+
+Auto detection for these(volume, brightness etc.) may or may not be added
+
+
+## Todo:
+
+* Add notification for temprature alert(which tells that CPU is cranking up(atleast in my system))
+* Notification for internet connectivity
