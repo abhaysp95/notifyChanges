@@ -21,22 +21,31 @@ See the changes for yourself:
 * **Volume:**
 
 <!-- ![volume-change](sshots/vol-notify.png) -->
-<img width="500" alt="volume-change" src="sshots/vol-notify.png">
+<p align="center">
+<img width="600" alt="volume-change" src="sshots/vol-notify.png">
+</p>
 
 * **Brightness:**
 
 <!--![bright-change](sshots/bright-notify.png)-->
-<img width="500" alt="bright-change" src="sshots/bright-notify.png">
+<p align="center">
+<img width="600" alt="bright-change" src="sshots/bright-notify.png">
+</p>
 
 * **Battery:**
 
 <!--![battery-charge](sshots/battery_charging.png)-->
-<img width="500" alt="battery-charge" src="sshots/battery_charging.png">
+<p align="center">
+<img width="600" alt="battery-charge" src="sshots/battery_charging.png">
 
 <!--![battery_discharging](sshots/battery_discharging.png)-->
-<img width="500" alt="battery_discharge" src="sshots/battery_discharging.png">
+<p align="center">
+<img width="600" alt="battery_discharge" src="sshots/battery_discharging.png">
+</p>
 
 * **Song:**
 
 <!--![song-change](sshots/music-notify.png)-->
-<img width="500" alt="music-notify" src="sshots/music-notify.png">
+<p align="center">
+<img width="600" alt="music-notify" src="sshots/music-notify.png">
+</p>
